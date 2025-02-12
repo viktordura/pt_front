@@ -1,5 +1,5 @@
 const env = {
-    urlBackend: "http://localhost:3000"
+    urlBackend: "https://pt-backend-psi.vercel.app"
 }
 
 export default env;
