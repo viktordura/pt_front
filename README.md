@@ -68,3 +68,10 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+## Descripción de implementación de backend
+Decidi desarrollar el front end  en React.js con la intención de mostrar un poco mas mis habilidades de desarrollo y por que React.js me parece muy eficiente al momento de trabajar el front 
+
+Trate de implementar uns estructura con la que me gusta trabajar tratando de mantener el orden en general del proyecto cree algunas funciones de las que me apoye para usar en diferentes partes del proyecto se crearon componentes se trabajo a una escala minima el tema de contexto use AXIOS para manejar la conexión con backend al final quedo contento con el resultado se cumple con lo solicitado en la prueba.
+
