@@ -1,0 +1,108 @@
+.app .container{
+    position: relative;
+    flex: 1;
+    margin-bottom: 20px;
+}
+
+.loader {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    top: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: #dedede96;
+    z-index: 10;
+}
+
+.container-table {
+    overflow: visible;
+}
+
+.container-table > div:nth-child(1), .container-table .sc-hzhKNl, .sc-hzhKNl{
+    min-height: 260px !important;
+    overflow-y: visible !important;
+    overflow-x: auto;
+    scrollbar-width: thin;
+}
+
+.container-table .sc-hzhKNl, .sc-hzhKNl{
+    overflow: visible;
+    scrollbar-width: thin;
+}
+
+.number-products{
+    align-items: center;
+    display: flex;
+    margin-bottom: 2px;
+    margin-left: 15px;
+    font-size: 15px;
+}
+
+.font-weight-300 {
+    font-weight: 300;
+}
+
+.filters {
+    margin-bottom: 20px;
+}
+
+.ai-center {
+    align-items: center;
+}
+
+.button{
+    background: #0067ab;
+    font-weight: 600;
+    padding: 12px 19px;
+    border: 0px;
+    border-radius: 5px;
+    overflow: hidden;
+    margin-left:11px
+}
+
+.primary:active{
+    background: #01558d;
+}
+
+.primary:hover{
+    background-color: #28658d;
+    cursor: pointer;
+}
+
+.primary{
+    background: #0067ab;
+}
+
+.danger{
+    background: #d31616;
+}
+
+.success{
+    background: #0a9b20;
+}
+
+.button span{
+    color: #ffffff;
+}
+
+.content-search {
+    position: absolute;
+    right: 10px;
+    top: 10px;
+}
+
+.footer-rigth-modal-generic {
+    flex: 1;
+    max-height: 60px;
+    display: flex;
+    align-items: center;
+}
+
+.b-cart{
+    width: 100%;
+}
+
+
